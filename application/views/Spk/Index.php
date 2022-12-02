@@ -75,7 +75,7 @@
             <tr>
               <td><?php echo $j+1 ?></td>
               <td><?php echo $tabel_list['nama'] ?></td>
-              <td><?php echo $ramram[$j] ?></td>
+              <td><?php echo $harhar[$j] ?></td>
               <td><?php echo $ramram[$j] ?></td>
               <td><?php echo $memmem[$j] ?></td>
               <td><?php echo $propro[$j] ?></td>
